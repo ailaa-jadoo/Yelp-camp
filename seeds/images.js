@@ -22,17 +22,17 @@ module.exports = [
     {
         url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660027621/YelpCamp/wcrtynxfcqy2n4cl3ybd.jpg',
         filename: 'YelpCamp/riktnauhqwrrghmr5guo'
-    },
-    {
-        url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146343/YelpCamp/g4ugfiuqgz7eac8ihxc7.jpg',
-        filename: 'YelpCamp/g4ugfiuqgz7eac8ihxc7'
-    },
-    {
-        url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146667/YelpCamp/mc6zblcvmjvxgxdpher3.jpg',
-        filename: 'YelpCamp/mc6zblcvmjvxgxdpher3'
-    },
-    {
-        url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146667/YelpCamp/votvxdg3qydap2k1icjy.jpg',
-        filename: 'YelpCamp/votvxdg3qydap2k1icjy'
     }
+    // {
+    //     url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146343/YelpCamp/g4ugfiuqgz7eac8ihxc7.jpg',
+    //     filename: 'YelpCamp/g4ugfiuqgz7eac8ihxc7'
+    // },
+    // {
+    //     url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146667/YelpCamp/mc6zblcvmjvxgxdpher3.jpg',
+    //     filename: 'YelpCamp/mc6zblcvmjvxgxdpher3'
+    // },
+    // {
+    //     url: 'https://res.cloudinary.com/dpb0dc2u0/image/upload/v1660146667/YelpCamp/votvxdg3qydap2k1icjy.jpg',
+    //     filename: 'YelpCamp/votvxdg3qydap2k1icjy'
+    // }
 ]

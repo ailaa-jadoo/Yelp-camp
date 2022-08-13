@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="/stylesheets/home.css">
 </head>
 
+<div id="preloader"></div>
+
 <body class="d-flex text-center text-white bg-dark">
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="mb-auto">
@@ -66,5 +68,10 @@
         integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/"
         crossorigin="anonymous"></script>
 </body>
+
+<script>
+    const loader = document.getElementById('preloader');
+    window.addEventListener("load", () => { loader.style.display = "none" })
+</script>
 
 </html>

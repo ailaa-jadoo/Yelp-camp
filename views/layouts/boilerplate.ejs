@@ -18,6 +18,8 @@
 
 </head>
 
+<div id="preloader"></div>
+
 <body class="d-flex flex-column vh-100">
     <%- include('../partials/navbar')%>
         <main class="container mt-5">
@@ -36,5 +38,11 @@
 
             <script src='/javascripts/validateForms.js'></script>
 </body>
+
+
+<script>
+    const loader = document.getElementById('preloader');
+    window.addEventListener("load", () => { loader.style.display = "none" })
+</script>
 
 </html>
