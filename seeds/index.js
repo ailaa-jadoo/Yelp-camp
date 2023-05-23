@@ -4,7 +4,7 @@ const images = require('./images');
 const { places, descriptors } = require('./seedHelpers');
 const Campground = require('../models/campground');
 
-mongoose.connect('mongodb+srv://Jado0o0o:9871303646@cluster0.rc72jgl.mongodb.net/?retryWrites=true&w=majority');
+mongoose.connect('mongodb+srv://Jado0o0o:9871303646@cluster0.9uasfml.mongodb.net/?retryWrites=true&w=majority');
 
 const db = mongoose.connection;
 
