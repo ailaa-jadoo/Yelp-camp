@@ -37,7 +37,7 @@
                     <li class="list-group-item text-muted">
                         <%= campground.location%>
                     </li>
-                    <li class="list-group-item">Submitted by <%= campground.author.username %>
+                    <li class="list-group-item">Submitted by <%= campground.author.username%>
                     </li>
                     <li class="list-group-item">$<%= campground.price%>/night</li>
                 </ul>
@@ -121,7 +121,7 @@
 
     <script>
         const mapToken = '<%-process.env.MAPBOX_TOKEN%>';
-        const campground = <%- JSON.stringify(campground) %>
+        const campground = <%-JSON.stringify(campground)%>
     </script>
 
     <script src="/javascripts/showPageMap.js"></script>
