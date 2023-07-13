@@ -48,7 +48,7 @@ Install Yelp-camp with npm
   CLOUDINARY_KEY='<key>'
   CLOUDINARY_SECRET='<secret>'
   MAPBOX_TOKEN='<token>'
-  DB_URI=''<url>
+  DB_URI='<url>'
   SECRET='<secret>'
 ```
 
