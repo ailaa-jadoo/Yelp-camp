@@ -45,7 +45,7 @@ Install Yelp-camp with npm
 
 ```bash
   CLOUDINARY_CLOUD_NAME='<name>'
-  CLOUDINARY_KEY=''<key>
+  CLOUDINARY_KEY='<key>'
   CLOUDINARY_SECRET='<secret>'
   MAPBOX_TOKEN='<token>'
   DB_URI=''<url>
