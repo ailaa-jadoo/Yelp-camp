@@ -1,5 +1,5 @@
 
-# Project Title
+# Yelp-camp
 
 ![App Screenshot](https://github.com/ailaa-jadoo/Yelp-camp/blob/main/ss.png?raw=true)
 
