@@ -44,9 +44,12 @@ Install Yelp-camp with npm
 **Configure environment variables:** Create a .env file and add necessary environment variables.
 
 ```bash
-  DATABASEURL='<url>'
-  API_KEY=''<key>
-  API_SECRET='<secret>'
+  CLOUDINARY_CLOUD_NAME='<name>'
+  CLOUDINARY_KEY=''<key>
+  CLOUDINARY_SECRET='<secret>'
+  MAPBOX_TOKEN='<token>'
+  DB_URI=''<url>
+  SECRET='<secret>'
 ```
 
 **Start the server:** npm start
